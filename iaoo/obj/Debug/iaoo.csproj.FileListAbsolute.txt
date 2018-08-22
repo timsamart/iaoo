@@ -1,0 +1,6 @@
+E:\Content\Software\TSamartzidis\Gits\interfaces_abstract_overwrite_overload\iaoo\iaoo\bin\Debug\iaoo.exe.config
+E:\Content\Software\TSamartzidis\Gits\interfaces_abstract_overwrite_overload\iaoo\iaoo\obj\Debug\iaoo.csprojResolveAssemblyReference.cache
+E:\Content\Software\TSamartzidis\Gits\interfaces_abstract_overwrite_overload\iaoo\iaoo\bin\Debug\iaoo.exe
+E:\Content\Software\TSamartzidis\Gits\interfaces_abstract_overwrite_overload\iaoo\iaoo\bin\Debug\iaoo.pdb
+E:\Content\Software\TSamartzidis\Gits\interfaces_abstract_overwrite_overload\iaoo\iaoo\obj\Debug\iaoo.exe
+E:\Content\Software\TSamartzidis\Gits\interfaces_abstract_overwrite_overload\iaoo\iaoo\obj\Debug\iaoo.pdb
